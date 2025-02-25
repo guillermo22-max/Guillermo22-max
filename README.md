@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/luis-guillermo-soto-siciliano/">Luis Soto</a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGMjsIOkvR7Yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739020222617?e=1744243200&v=beta&t=b99bve-gi9hPfbvgkOAVGHe0G8y_OOWeZZ9TMP4HFHQ">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHuDpVOsOv3lQ/profile-displaybackgroundimage-shrink_350_1400/B4DZU8O9FTHIAY-/0/1740472308940?e=1746057600&v=beta&t=UGU5v0qCCrsafctv5fz0eFzsSZ8SP2oP-jWc2L_G81k"
 
 # 💫 About Me:
 💻📱📈 Desarrollador Web Full Stack. Desarrollo aplicaciones web modernas en React, para el backend utilizo Python y Flask con base de datos mysql.
