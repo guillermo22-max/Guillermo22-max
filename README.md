@@ -4,7 +4,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGMjsIOkvR7Yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739020222617?e=1744243200&v=beta&t=b99bve-gi9hPfbvgkOAVGHe0G8y_OOWeZZ9TMP4HFHQ">
 
 # 💫 About Me:
-💻📱📈Soy Desarrollador Web Full Stack con experiencia en el diseño y desarrollo de aplicaciones web modernas, escalables y orientadas al usuario. Mi especialización combina un frontend interactivo desarrollado en React con un backend robusto y seguro en Python y Flask .
+💻📱📈 Desarrollador Web Full Stack. Desarrollo aplicaciones web modernas en React, para el backend utilizo Python y Flask con base de datos mysql.
 
 
 ## 🌐 Socials:
